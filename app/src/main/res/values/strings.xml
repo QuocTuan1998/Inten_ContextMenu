@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Inten_ContextMenu</string>
+
+    <color name="clrRed">#FF0000</color>
+    <color name="clrBlue">#0000FF</color>
+    <color name="clrGreen">#00FF00</color>
+</resources>
